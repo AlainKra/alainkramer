@@ -28,7 +28,7 @@ p    {font-size:20px;
     margin-right: 200px;
     margin-top: 0px;
     margin-bottom: 0px;}
-body {background-image: url("/img/Backgroun.jpg"); 
+body {background-image: url("Backgroun.jpg"); 
      background-repeat: no-repeat, repeat; 
      background-size: cover;}
 
